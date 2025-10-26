@@ -39,3 +39,10 @@
 ---
 
 ✨ _Feito com foco, disciplina e muita curiosidade._
+
+
+Css
+
+<style>
+  background-color: black;
+</style>
