@@ -23,7 +23,7 @@
 
 
  🌎 Onde me encontrar
-[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-melo-carvalho-2b5194264/)](https://www.linkedin.com/in/pedromelo/)
+[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-melo-carvalho-2b5194264/)
 [![Instagram](https://www.instagram.com/pedromeloo11/)
 [![Portfolio](https://easy-war.surge.sh/)
 
