@@ -10,12 +10,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-%230078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 
  ⚙️ Ferramentas e sistemas
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
  📊 Estatísticas do GitHub
@@ -24,9 +23,9 @@
 
 
  🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromelo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedromelo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedromelo.dev)
+[![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-melo-carvalho-2b5194264/)](https://www.linkedin.com/in/pedromelo/)
+[![Instagram](https://www.instagram.com/pedromeloo11/)
+[![Portfolio](https://easy-war.surge.sh/)
 
 
  ☕ Frase que me representa
